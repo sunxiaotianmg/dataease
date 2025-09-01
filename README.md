@@ -65,11 +65,15 @@ curl -sSL https://dataease.oss-cn-hangzhou.aliyuncs.com/quick_start_v2.sh | bash
 
 你也可以通过 [1Panel 应用商店](https://dataease.io/docs/v2/installation/1panel_installation/) 快速部署 DataEase。如果是用于生产环境，推荐使用 [离线安装包方式](https://dataease.io/docs/v2/installation/offline_INSTL_and_UPG/) 进行安装部署。
 
-如你有更多问题，可以查看在线文档，或者通过论坛与我们交流。
+如你有更多问题，可以查看在线文档，或者通过论坛和交流群与我们交流。
 
 -   [视频介绍](https://www.bilibili.com/video/BV1Y8dAYLErb/)
 -   [在线文档](https://dataease.io/docs/)
 -   [社区论坛](https://bbs.fit2cloud.com/c/de/6)
+-   微信交流群
+
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/a8e4cd48-ed0f-4754-ba34-d047063b1633" />
+
 
 ## UI 展示
 
